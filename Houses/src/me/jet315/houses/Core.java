@@ -106,9 +106,9 @@ public class Core extends JavaPlugin{
                 Core.getInstance().getPlayerManager().getHousePlayerMap().remove(p);
             }
         }
-/*        playerManager = null;
+        playerManager = null;
         properties = null;
-        db = null;*/
+        db = null;
         instance = null;
     }
 
