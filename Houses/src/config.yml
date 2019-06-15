@@ -10,7 +10,7 @@
 PluginsPrefix: "&6&lHOUSES &e&l> "
 
 #The Locale being used (Must exist within the '/local' file)
-Locale: "en-US"
+Locale: "en-GB"
 
 #Whether to hide GUI items that the user does not have permission to use it
 HideGUIItemsIfNoPermission: true
